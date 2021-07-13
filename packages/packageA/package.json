@@ -11,5 +11,12 @@
 	"license": "ISC",
 	"dependencies": {
 		"@nicksevens/mrv-package-b": "1.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NickSevens/monorepo-versions"
+	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
 	}
 }
