@@ -11,7 +11,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"devDependencies": {
-		"beachball": "^2.6.2"
+		"beachball": "file:C:/Projects/_Testing/beachballjs"
 	},
 	"workspaces": {
 		"packages": [
