@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "Another change",
+  "packageName": "@nicksevens/mrv-package-b",
+  "email": "nick.sevens@delaware.pro",
+  "dependentChangeType": "patch"
+}
