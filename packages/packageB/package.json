@@ -1,19 +1,19 @@
 {
-	"name": "@nicksevens/mrv-package-b",
-	"version": "1.1.0",
-	"description": "",
-	"main": "lib/index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [],
-	"author": "Nick Sevens",
-	"license": "ISC",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/NickSevens/monorepo-versions"
-	},
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com"
-	}
+  "name": "@nicksevens/mrv-package-b",
+  "version": "1.1.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nick Sevens",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickSevens/monorepo-versions"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }

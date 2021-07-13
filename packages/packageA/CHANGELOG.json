@@ -1,0 +1,20 @@
+{
+  "name": "@nicksevens/mrv-package-a",
+  "entries": [
+    {
+      "date": "Tue, 13 Jul 2021 09:30:51 GMT",
+      "tag": "@nicksevens/mrv-package-a_v1.0.1",
+      "version": "1.0.1",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Bump @nicksevens/mrv-package-a to v1.0.1",
+            "author": "nick.sevens@delaware.pro",
+            "commit": "ffd09bbf8b4cb7cf03b38d326464a61481c6af0a",
+            "package": "@nicksevens/mrv-package-a"
+          }
+        ]
+      }
+    }
+  ]
+}
