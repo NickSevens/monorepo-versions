@@ -1,8 +1,16 @@
 # Change Log - @nicksevens/mrv-package-b
 
-This log was last generated on Tue, 13 Jul 2021 11:42:49 GMT and should not be manually modified.
+This log was last generated on Tue, 13 Jul 2021 12:02:47 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.1.3
+
+Tue, 13 Jul 2021 12:02:47 GMT
+
+### Patches
+
+- Some change (nick.sevens@delaware.pro)
 
 ## 1.1.2
 
