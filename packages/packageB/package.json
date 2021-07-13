@@ -1,6 +1,6 @@
 {
   "name": "@nicksevens/mrv-package-b",
-  "version": "1.1.3",
+  "version": "1.1.4-0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
