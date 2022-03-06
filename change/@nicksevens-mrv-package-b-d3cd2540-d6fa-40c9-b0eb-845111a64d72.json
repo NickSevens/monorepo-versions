@@ -1,7 +1,0 @@
-{
-  "type": "minor",
-  "comment": "changed",
-  "packageName": "@nicksevens/mrv-package-b",
-  "email": "nick.sevens@delaware.pro",
-  "dependentChangeType": "patch"
-}
