@@ -1,6 +1,6 @@
 {
   "name": "@nicksevens/mrv-package-a",
-  "version": "1.0.4-0",
+  "version": "1.0.4-dev.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "Nick Sevens",
   "license": "ISC",
   "dependencies": {
-    "@nicksevens/mrv-package-b": "1.1.4-0"
+    "@nicksevens/mrv-package-b": "1.1.4-dev.2"
   },
   "repository": {
     "type": "git",
